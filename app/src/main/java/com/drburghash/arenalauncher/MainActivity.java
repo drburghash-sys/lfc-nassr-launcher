@@ -1,4 +1,4 @@
-package com.drburghash.arenalauncher;
+package com.drburghash.bmsblank;
 
 import android.app.Activity;
 import android.content.ActivityNotFoundException;
